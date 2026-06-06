@@ -243,4 +243,4 @@ GitHub: https://github.com/VinayKamath
 
 ## License
 
-This project is intended for educational and experimentation purposes.
+MIT Liscence
