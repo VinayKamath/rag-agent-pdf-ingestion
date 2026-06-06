@@ -1,0 +1,8 @@
+langchain
+pymupdf
+ipykernel
+langchain-text-splitters
+langchain_chroma
+langchain_openai
+python-dotenv
+streamlit
